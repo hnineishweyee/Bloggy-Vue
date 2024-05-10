@@ -1,4 +1,4 @@
-# project-planner
+# bloggy-vue
 
 ## Project setup
 ```
